@@ -13,6 +13,13 @@ I'm a software engineer who currently works as an Android Engineer. I enjoy lear
 - 📫 How to reach me: https://twitter.com/patbeagan1
 - 😄 Pronouns: He/Him
 
+### Top Projects?
+- https://github.com/patbeagan1/ConsoleVision
+- https://github.com/patbeagan1/B20-Game-Server
+- https://github.com/patbeagan1/Threeflow
+- https://github.com/patbeagan1/FamilyTreeGenerator
+
+### Proficiencies
 This is a breakdown of my skill levels in a couple of frameworks as of 2022, from 0 ⭐ to 5 ⭐ proficiency
 <p align="center">
 <img width=80% src="https://user-images.githubusercontent.com/10187351/153776462-3756585c-71c1-4d64-b360-1219b7447503.png" />
