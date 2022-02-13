@@ -1,16 +1,19 @@
+<p align="center">
+<img width=60% src="https://user-images.githubusercontent.com/10187351/153775546-556224c7-e4ee-470d-9073-11c310021ac4.png" />
+</p>
+
 ### Hi there 👋
 
-<!--
-**patbeagan1/patbeagan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer who currently works as an Android Engineer. I enjoy learning new frameworks and technologies, and applying my learning from them into my work. 
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Unity**
+- 👯 I’m looking to collaborate on **workflow scripts**
+- 🤔 I’m looking for help with **feature requests**
+- 💬 Ask me about **design systems and color scales**
+- 📫 How to reach me: https://twitter.com/patbeagan1
+- 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is a breakdown of my skill levels in a couple of frameworks as of 2022, from 0 ⭐ to 5 ⭐ proficiency
+<p align="center">
+<img width=80% src="https://user-images.githubusercontent.com/10187351/153776462-3756585c-71c1-4d64-b360-1219b7447503.png" />
+</p>
