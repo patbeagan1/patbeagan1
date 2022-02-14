@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I'm a software engineer who currently works as an Android Engineer. I enjoy learning new frameworks and technologies, and applying my learning from them into my work. 
+I'm a software engineer who currently works as an Android developer <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex-android/72/android-icon.png" height="20" /> I enjoy learning new frameworks and technologies, and incorporating learnings from them into my work. 
 
 - 🌱 I’m currently learning **Unity**
 - 👯 I’m looking to collaborate on **workflow scripts**
@@ -20,7 +20,7 @@ I'm a software engineer who currently works as an Android Engineer. I enjoy lear
 - https://github.com/patbeagan1/FamilyTreeGenerator
 
 ### Proficiencies
-This is a breakdown of my skill levels in a couple of frameworks as of 2022, from 0 ⭐ to 5 ⭐ proficiency
+This is a breakdown of my skill levels in a couple of frameworks as of 2022, from 1 to 5 ⭐ proficiency
 <p align="center">
 <img width=80% src="https://user-images.githubusercontent.com/10187351/153776462-3756585c-71c1-4d64-b360-1219b7447503.png" />
 </p>
