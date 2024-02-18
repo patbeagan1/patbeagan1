@@ -37,8 +37,3 @@ I currently work with
 - **Command line tools**
   - https://github.com/patbeagan1/pretty_ip 
 
-### https://github.com/patbeagan1/pretty_ip,
-   null
-  
-### https://github.com/patbeagan1/ProtocolRSS,
-   A kotlin implementation of the RSS protocol. Derived from https://www.rssboard.org/rss-specification
