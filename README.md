@@ -26,16 +26,19 @@ I currently work with
 - Python / Deno
 - Zsh
 
-### Desktop Apps
+## Featured projects
+- **Desktop Apps**
+  - https://github.com/patbeagan1/ConsoleVision
+  - https://github.com/patbeagan1/B20-Game-Server
+  - https://github.com/patbeagan1/AggronRssReader 
+  - https://github.com/patbeagan1/FamilyTreeGenerator
+- **Web Apps**
+  - https://github.com/patbeagan1/Calendar 
+- **Command line tools**
+  - https://github.com/patbeagan1/pretty_ip 
 
-- https://github.com/patbeagan1/ConsoleVision
-- https://github.com/patbeagan1/B20-Game-Server
-- https://github.com/patbeagan1/AggronRssReader 
-- https://github.com/patbeagan1/FamilyTreeGenerator
-
-### Web Apps
-- https://github.com/patbeagan1/Calendar 
-
-### Command line tools
-
-- https://github.com/patbeagan1/pretty_ip 
+### https://github.com/patbeagan1/pretty_ip,
+   null
+  
+### https://github.com/patbeagan1/ProtocolRSS,
+   A kotlin implementation of the RSS protocol. Derived from https://www.rssboard.org/rss-specification
