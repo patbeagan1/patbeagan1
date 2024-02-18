@@ -4,23 +4,38 @@
 
 ### Hi there 👋
 
-I'm a software engineer who currently works as an Android developer <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex-android/72/android-icon.png" height="20" /> I enjoy learning new frameworks and technologies, and incorporating learnings from them into my work. 
+I'm a software engineer - who currently works as an Android developer. <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex-android/72/android-icon.png" height="20" /> 
 
-- 🌱 I’m currently learning **Unity**
-- 👯 I’m looking to collaborate on **workflow scripts**
-- 🤔 I’m looking for help with **feature requests**
-- 💬 Ask me about **design systems and color scales**
-- 📫 How to reach me: https://twitter.com/patbeagan1
-- 😄 Pronouns: He/Him
+I enjoy learning new frameworks and technologies, and incorporating learnings from them into my work. Check out all of my projects here: 
 
-### Top Projects?
+<!--- 
+vvv Just the urls, as list items
+curl https://api.github.com/users/patbeagan1/repos | jq '.[].html_url' | tr '"' ' ' | sed 's/^/-/'
+-->
+```sh
+curl https://api.github.com/users/patbeagan1/repos |
+  jq '.[] | {url: .html_url, description: .description}' |
+  grep -vE '{|}' |
+  sed 's/"//g' |
+  sed 's/url:/\n###/g' |
+  sed 's/description://g'             
+```
+
+I currently work with 
+- Kotlin / Rust
+- Python / Deno
+- Zsh
+
+### Desktop Apps
+
 - https://github.com/patbeagan1/ConsoleVision
 - https://github.com/patbeagan1/B20-Game-Server
-- https://github.com/patbeagan1/Threeflow
+- https://github.com/patbeagan1/AggronRssReader 
 - https://github.com/patbeagan1/FamilyTreeGenerator
 
-### Proficiencies
-This is a breakdown of my skill levels in a couple of frameworks as of 2022, from 1 to 5 ⭐ proficiency
-<p align="center">
-<img width=80% src="https://user-images.githubusercontent.com/10187351/153776462-3756585c-71c1-4d64-b360-1219b7447503.png" />
-</p>
+### Web Apps
+- https://github.com/patbeagan1/Calendar 
+
+### Command line tools
+
+- https://github.com/patbeagan1/pretty_ip 
