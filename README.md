@@ -36,3 +36,14 @@ Note that this is not fully inclusive of the projects that I've published. I hav
 ## Published projects
 - [via Cargo](https://crates.io/users/patbeagan1/)
 - [via pip](https://pypi.org/user/patbeagan1/)
+
+<!--
+How to publish, per platform
+
+Rust
+`cargo publish`, with the correct info in the Cargo.toml file
+
+Python
+https://pypi.org/manage/projects/
+https://packaging.python.org/en/latest/tutorials/packaging-projects/
+-->
