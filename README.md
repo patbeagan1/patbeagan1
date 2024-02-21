@@ -1,6 +1,8 @@
 <p align="center">
 <img width=60% src="https://user-images.githubusercontent.com/10187351/153775546-556224c7-e4ee-470d-9073-11c310021ac4.png" />
-<div style="width: 100%; text-align: center;">Generated with <a href="https://github.com/patbeagan1/ConsoleVision">ConsoleVision</a></div>
+</p>
+<p align="center">
+Generated with <a href="https://github.com/patbeagan1/ConsoleVision">ConsoleVision</a>
 </p>
 
 ### Hi there 👋
